@@ -1110,7 +1110,7 @@
     
     
     .posterBox{
-        background-image: url('/img/hero-banner.jpg');
+        background-image: url('img/hero-banner.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         width: 100%;
@@ -1785,7 +1785,7 @@ outline:none;
 
 
           .posterBox{
-            background-image: url('/img/hero-banner.jpg');
+            background-image: url('img/hero-banner.jpg');
             background-repeat: no-repeat;
             background-position: st;
             background-size: cover;
